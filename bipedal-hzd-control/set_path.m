@@ -1,2 +1,0 @@
-addpath('util/');
-addpath('autogen/');
